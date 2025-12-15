@@ -50,7 +50,7 @@ Clone this repository from GitHub:
 
 ```bash
 git clone https://github.com/CodeMarcsX/HtmlMotors.git
-cd html-motors
+cd HtmlMotors
 ```
 ---
 ## ▶️ How to Run
