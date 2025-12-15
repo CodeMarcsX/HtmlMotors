@@ -1,0 +1,45 @@
+/* =========================================================
+    MAIN CONTAINER
+========================================================= */
+
+.container {
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+/* =========================================================
+   SECTIONS (TELAS / SLIDES)
+========================================================= */
+
+.section {
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.section.active {
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 1;
+}
+
+/* =========================================================
+    BACKGROUND
+========================================================= */
+
+.section.bg-ferrari {
+    background: var(--bg-ferrari);
+}
+
+.section.bg-porsche {
+    background: var(--bg-porsche);
+}
+
+.section.bg-lamborghini {
+    background: var(--bg-lamborghini);
+}

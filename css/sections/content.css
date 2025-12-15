@@ -1,0 +1,63 @@
+/* =========================================================
+   CONTENT
+========================================================= */
+
+.content {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    right: -7%;
+    top: 25%;
+    z-index: 2;
+}
+
+/* Tag */
+.car-tag {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: var(--neon);
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+/* Name */
+.car-name {
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+/* Styles by brand  */
+.ferrari {
+    font-family: var(--ferrari-font);
+    font-size: 5rem;
+    color: var(--ferrari-color);
+    text-shadow: 1px 1px 0 var(--ferrari-color), -1px -1px 0 var(--ferrari-color), 0 0 10px var(--ferrari-color);
+}
+
+.porsche {
+    font-family: var(--porsche-font);
+    font-size: 3.5rem;
+    color: var(--porsche-color);
+    text-shadow: 1px 1px 0 var(--porsche-color), -1px -1px 0 var(--porsche-color), 0 0 10px var(--porsche-color);
+}
+
+.lamborghini {
+    font-family: var(--lamborghini-font);
+    font-size: 4.5rem;
+    color: var(--lamborghini-color);
+    text-shadow: 0.5px 0.5px 0 var(--lamborghini-color), -0.5px -0.5px 0 var(--lamborghini-color), 0 0 5px var(--lamborghini-color);
+}
+
+/* Description */
+.description {
+    font-size: 1.1rem;
+    color: #b8b8d0;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    max-width: 600px;
+    text-align: justify;
+}

@@ -1,0 +1,28 @@
+/* =========================================================
+   VARIABLES
+========================================================= */
+
+:root {
+    /* Backgrounds Colors */
+    --bg-ferrari: linear-gradient(135deg, #2a0007 0%, #4a0010 50%,#6a0017 100%);
+    --bg-porsche: linear-gradient(135deg,#0b0f14 0%,#141b23 45%,#1f2a35 100%);
+    --bg-lamborghini: linear-gradient(135deg,#070907 0%,#12150e 40%,#1f2316 100%);
+
+    /* Fonts */
+    --principal-font: 'Montserrat', sans-serif;
+    
+    --ferrari-font: 'Ferro Rosso';
+    --porsche-font: 'Porscha';
+    --lamborghini-font: 'La Macchina';
+
+    /* Fonts Colors */
+    --neon: #00f7ff;
+
+    --ferrari-color: #BA001E;
+    --porsche-color: #78808a;
+    --lamborghini-color: #b9a24d;
+
+    /* Button Colors */
+    --btn-color: #18bf7f;
+    --arrow-color: rgba(0, 247, 255, 0.2);
+}

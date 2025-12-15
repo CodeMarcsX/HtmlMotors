@@ -1,0 +1,41 @@
+/* =========================================================
+   CARS IMAGES
+========================================================= */
+
+.car-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: 2;
+}
+
+/* Ferrari */
+.ferrari-img {
+    left: -30%;
+    bottom: 24%;
+}
+
+.ferrari-img img {
+    width: 47%;
+}
+
+/* Porsche */
+.porsche-img {
+    left: -34%;
+    bottom: 25%;
+}
+
+.porsche-img img {
+    width: 47%;
+}
+
+/* Lamborghini */
+.lamborghini-img {
+    left: -34%;
+    bottom: 23%;
+}
+
+.lamborghini-img img {
+    width: 47%;
+}

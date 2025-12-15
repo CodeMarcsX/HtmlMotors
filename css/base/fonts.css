@@ -1,0 +1,23 @@
+/* =========================================================
+   IMPORT FONTS
+========================================================= */
+/* Ferrari */
+@font-face {
+    font-family: 'Ferro Rosso';
+    src: url('../../assets/Fonts/FerroRosso.ttf') format('truetype');
+}
+
+/* Lamborghini */
+@font-face {
+    font-family: 'La Macchina';
+    src: url('../../assets/Fonts/LaMacchina.ttf') format('truetype');
+}
+
+/* Porsche */
+@font-face {
+    font-family: 'Porscha';
+    src: url('../../assets/Fonts/Porscha.ttf') format('truetype');
+}
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&display=swap');

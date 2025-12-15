@@ -1,0 +1,43 @@
+/* =========================================================
+   HEADER
+========================================================= */
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 25px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.logo img {
+    width: 12%;
+}
+
+header nav ul {
+    display: flex;
+    gap: 50px;
+}
+
+header nav ul li {
+    cursor: pointer;
+    position: relative;
+}
+
+header nav ul li::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--neon);
+    transition: width 0.3s ease;
+}
+
+header nav ul li:hover::after {
+    width: 100%;
+}
