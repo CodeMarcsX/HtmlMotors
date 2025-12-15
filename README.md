@@ -88,3 +88,4 @@ No commercial use is intended, and this project is not affiliated with any of th
 
 ---
 ## 📸 Preview
+![Project Preview](Preview/Preview.gif)
