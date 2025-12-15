@@ -88,6 +88,3 @@ No commercial use is intended, and this project is not affiliated with any of th
 
 ---
 ## 📸 Preview
-
-(Add screenshots or a GIF of the carousel here)
-
