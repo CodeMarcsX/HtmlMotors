@@ -59,23 +59,23 @@ This is a front-end project, no build step required.
 
 Option 1 — Open directly
 
-Open the index.html file in your browser.
+- Open the index.html file in your browser.
 
 Option 2 — Using Live Server (recommended)
 
-If you use VS Code, install the Live Server extension and run the project for a better development experience.
+- If you use VS Code, install the Live Server extension and run the project for a better development experience.
 
 ---
 
 ## 🚀 Usage
 
-Open the project in your browser.
+- Open the project in your browser.
 
-Use the navigation arrows to switch between cars.
+- Use the navigation arrows to switch between cars.
 
-Observe the brand-specific themes and animations.
+- Observe the brand-specific themes and animations.
 
-Enjoy the premium UI experience.
+- Enjoy the premium UI experience.
 
 ---
 
